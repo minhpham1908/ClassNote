@@ -1,0 +1,48 @@
+﻿10/9
+Phần mềm mã nguồn mở và LINUX
+Trương Thị Diệu Linh
+email: linhtd@soict.hust.edu.vn
+website: users.soict.hust.edu.vn/linhtd
+//Nhắn thiên làm danh sách lớp môn này
+//Ds lớp, họ tên, email
+
+Tài liệu: LINUX và PMMNM, Hạ Quốc Trung, nxb bách khoa
+
+Điểm: 3/7
+
+open office
+
+OPEN SOURCE DEFINITION
+1. free redistribution
+2. source code
+3. derived works
+4
+5
+6
+7
+8
+9
+
+Copyright:
+quy định người nắm giữ bản quyền
+Software License: 
+quy định về việc sử dụng và phân phối phần mềm
+ở pmmnm, SL không hạn chế quyền sử dụng và phân phối pm, còn pm thương mại chỉ quy định user chỉ được sử dụng pm
+
+Copyleft: giữ quyền tự do tối đa cho tất cả người dùng
+
+Trong doanh nghiệp: 
+cung cấp dịch vụ trả phí đi kèm pmmnm: đào tạo, triển khai, qc,...
+mô hình dual license
+//Ldt. =
+
+google với lợi ích từ việc mua android:
+- Tích hợp được phần mềm của gg vào -> nhiều user hơn
+- tạo hệ sinh thái CH Play, nguồn tiền thu được 1 phần GG sẽ thu lại
+
+Apache License
+GNU
+
+Mô hình phát triển MNM
+- Mô hình phát triển nhà thờ
+- Bazar 

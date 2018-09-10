@@ -1,0 +1,31 @@
+﻿Nguyen Tien Thanh, Software Engineering Department
+Link slide: 
+email: nguyenthanh@soict.hust.edu.vn, phone 0987768886
+Project Assignment 1-3 members a group, tell next week your group.
+Use java to build software helps users learn Eng
+Pa mimics the website: www.listen-and-write.com. Like this website, ur PA has several levels in which has at least 10 lessons.
+But unlke listen-n-write it has 4 models of listenning
+u only build 1 model: while users are listenning a track (a part of lesson), he/she can type everything at will. As soon as users press button "Check"
+The program will compare 2 documents: first one is typed text, n osther - the original content of the track.
+How to Check 2 documents?
+u should implement the algorithm: LONGEST COMMON SUBSTRING.
+The freature above is mandatory, n u might try:
+(i) After finishing a lesson, the program calculate score for user n shows a graph: score-time (of the current level).
+(ii) allow user type a string n then the program search to find which documents contain it (Ur group has got to apply LCS as well). PA for your mid-term, n an examination for the final term.
+Unlike other classes, ur examination will be in the last day ( 14weeks -10/dec)
+
+U gonna be learning in 9 weeks, n then each group report their progression in a row, n 3-Dec, i will check your PA out. You prepare no slide, just show me your PA, and run it, obviously.
+
+In each day, sometimes I give you question, guy who has correct answer wil get one additional score for his middle-term.
+
+Please remember that, next day, guy who is no group will receive 0 for his middle term.
+
+Java want to run in all devices, even in which has no OS. n Java already made it.
+
+###
+
+Java satifies all principals of Object-Oriented Theory (OOT), many other langs have similar syntax like Java, C#,PHP, js
+
+Ex1: Java program in file FirstDay.java which prints these contents:
+C:\ D:\
+\n \t \r He said: "
